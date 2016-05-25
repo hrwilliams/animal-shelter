@@ -1,0 +1,20 @@
+img.flip {
+  transform: rotate(90deg);
+  padding: 50px;
+
+}
+img.flippie {
+  transform: rotate(180deg);
+  padding: 50px;
+
+}
+
+.column p {
+  width: 300px;
+  float:left;
+  }
+
+.intro h1 p h2 {
+  color: purple;
+
+}
