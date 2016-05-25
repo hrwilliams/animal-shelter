@@ -1,0 +1,20 @@
+.objective {
+  color: blue;
+  border-top: thick double #0000FF;
+  border-bottom: thick double #000000;
+}
+
+.title {
+  font-weight: bolder;
+  font-size: 22px
+}
+
+.dates {
+  font-style: italic;
+
+}
+
+.education {
+  font-style: italic;
+
+}
