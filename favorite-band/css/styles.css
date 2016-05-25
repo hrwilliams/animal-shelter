@@ -1,0 +1,17 @@
+body {
+  background-image: url(http://www.wakethedeaf.co.uk/wp-content/uploads/2015/08/low-2015-promo-01-zoranorlic-3030x1500-300.jpg)
+}
+
+img {
+  float: left;
+}
+
+.sidebar {
+  width: 30%;
+  float: right;
+  background-color: white;
+}
+
+.text {
+  color: white;
+}
