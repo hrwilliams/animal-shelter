@@ -4,12 +4,16 @@ body {
 
 img {
   float: left;
+  padding: 50px;
 }
 
 .sidebar {
   width: 30%;
   float: right;
   background-color: white;
+  margin: 12px;
+  border: 2px solid green;
+  padding: 4px;
 }
 
 .text {
