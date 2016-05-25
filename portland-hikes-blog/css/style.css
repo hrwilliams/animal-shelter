@@ -1,0 +1,17 @@
+.intro {
+  font-weight: bold;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.flashy {
+  font-weight: bold;
+  color: pink;
+}
+
+.aboutme{
+  text-shadow: 6px 6px 6px #551a8b;
+  font-size: 20px;
+}
